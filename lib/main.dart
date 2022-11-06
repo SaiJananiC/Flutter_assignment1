@@ -92,7 +92,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
             ),
             Image.asset(
-              '/assets/images/triangle.png',
+              'assets/images/triangle.png',
               height: 200.0,
               width: 200.0,
             ),
